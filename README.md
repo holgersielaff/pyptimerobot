@@ -2,6 +2,8 @@
 
 ##### Config
 
+Put a configfile in `configs` for each monitored uri
+
 A config may look like this:
 
 ```json
@@ -10,6 +12,9 @@ A config may look like this:
   "url": "https://www.python.org"
 }
 ```
+* `name` is mandatory
+* `url` is mandatory
+
 
 ##### Installation
 ```bash
