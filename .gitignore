@@ -1,0 +1,10 @@
+venv
+__pycache__
+*.swp
+logs/*
+errors/*
+configs/*.json
+!.gitkeep
+.idea
+.vscode
+nbproject

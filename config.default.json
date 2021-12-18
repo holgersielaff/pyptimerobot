@@ -1,0 +1,10 @@
+{
+  "request_timeout": 15,
+  "sleeptime": 15,
+  "logrotate_delta": 86400,
+  "logrotate_delta_keep": 1209600,
+  "lockfile": "/tmp/uptimerobot.lock",
+  "configdir": null,
+  "errordir": null,
+  "logdir": null
+}
